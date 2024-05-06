@@ -10,4 +10,4 @@ Within this folder, there is another folder called Styles which holds a folder f
 (“vintage”, “prep”, “minimalist”, “workwear”, “streetwear”) in each of these folders there are 
 4 .jpg files I want to use for this project
 
-Currently, im having issues with loading and displaying the images
+Disclaimer!: in order to run code on your device you will need to change the user to your own if on mac. If on windows reformat the path and directory to fit windows os
